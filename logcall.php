@@ -73,7 +73,7 @@ function validateForm() {
 <body>
 
 	<?php
-	
+	//hello
 		$con = mysql_connect("localhost","pess_tianxi","password");
 		if(!$con)
 		{
